@@ -15,7 +15,7 @@
 
 - 📖 I'm currently learning Frontend
 
-- >_ In the past I had studied Cybersecurity
+- ›_$ In the past I had studied Cybersecurity
 
 - 📚 My plan for the future is to study Backend
 
