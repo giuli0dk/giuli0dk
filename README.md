@@ -1,12 +1,10 @@
 ## greeting()
 
- Function greeting() {
+ function greeting() {
 
     console.log("Hello, World! 👋🏻")
 
 }
-
-<!--
 
 **Giuli0dk/giuli0dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
