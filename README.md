@@ -29,6 +29,10 @@
 
 - 🐧 Linux & Shell
 
+- #!/bin/bash scripting
+
+- 🐍 Python
+
 - 💻 VSCode
 
 - 📂 VCS Git and GitHub
@@ -37,7 +41,7 @@
 
 - {} CSS
 
--. 🇯 🇸 JavaScript
+-. 🇯🇸 JavaScript
 
 - 🎨 Bootstrap
 
