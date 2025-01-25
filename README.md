@@ -1,6 +1,6 @@
 ## greeting()
 
- function greeting() {
+ function greeting(): void {
 
     console.log("Hello, World! 👋🏻")
 
@@ -9,13 +9,13 @@
 
 - 🧑🏻 I'm Xhulio, Jr Frontend Developer
 
-- 🎂 I'm 23y old
+- 🎂 I'm 24y old
 
 - 🛠️ My ambition is to become a Fullstack
 
 - 📖 I'm currently learning Frontend
 
-- ›_$ In the past I had studied Cybersecurity
+- ›_$ In the past I had studied Ethical Hacking
 
 - 📚 My plan for the future is to study Backend
 
@@ -43,6 +43,10 @@
 
 -. 🇯🇸 JavaScript
 
+-. 🇹🇸 TypeScript
+
 - 🎨 Bootstrap
 
-- ⚛️ React.js & Redux
+- 🎨 Tailwindcss
+
+- ⚛️ React.js
