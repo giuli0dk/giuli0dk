@@ -49,4 +49,6 @@
 
 - 🎨 Tailwindcss
 
+- 🎨 Material UI
+
 - ⚛️ React.js
