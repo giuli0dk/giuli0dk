@@ -33,7 +33,7 @@
 
 - 🐍 Python
 
-- 💻 VSCode
+- 💻 VSCode / IDX
 
 - 📂 VCS Git and GitHub
 
@@ -49,6 +49,6 @@
 
 - 🎨 Tailwindcss
 
-- 🎨 Material UI
+- 🎨 Bulma
 
 - ⚛️ React.js
