@@ -7,17 +7,13 @@
 }
 <!-- **Giuli0dk/giuli0dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🧑🏻 I'm Xhulio, Jr Frontend Developer
+- 🧑🏻 I'm Xhulio, Jr Fullstack Developer
 
 - 🎂 I'm 24y old
 
-- 🛠️ My ambition is to become a Fullstack
-
-- 📖 I'm currently learning Frontend
+- 📖 I'm currently learning Fullstack
 
 - ›_$ In the past I had studied Ethical Hacking
-
-- 📚 My plan for the future is to study Backend
 
 - 🔭 I'm currently working on my personal projects
 
@@ -29,11 +25,9 @@
 
 - 🐧 Linux & Shell
 
-- #!/bin/bash scripting
-
 - 🐍 Python
 
-- 💻 VSCode / IDX
+- 💻 VSCode
 
 - 📂 VCS Git and GitHub
 
@@ -43,12 +37,16 @@
 
 -. 🇯🇸 JavaScript
 
--. 🇹🇸 TypeScript
-
 - 🎨 Bootstrap
 
 - 🎨 Tailwindcss
 
-- 🎨 Bulma
-
 - ⚛️ React.js
+
+- 🧩 Vue.js
+
+- ✳️ Express.js
+
+- ⛁ Firebase
+
+- ⚡Supabase
