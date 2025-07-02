@@ -27,6 +27,8 @@
 
 - 🐍 Python
 
+- ⚙️ Rust
+
 - 💻 VSCode
 
 - 📂 VCS Git and GitHub
