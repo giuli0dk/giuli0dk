@@ -7,7 +7,7 @@
 }
 <!-- **Giuli0dk/giuli0dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🧑🏻 I'm Xhulio, Frontend Developer
+- 🧑🏻 I'm Xhulio, Fullstack Developer
 
 - 🎂 I'm 24y old
 
@@ -39,16 +39,18 @@
 
 -. 🇯🇸 JavaScript
 
+-. 🇹🇸 TypeScript
+
 - 🎨 Bootstrap
 
 - 🎨 Tailwindcss
 
-- ⚛️ React.js
+- ⚛️ React
 
-- 🧩 Vue.js
+- 🧩 Vue
 
 - ✳️ Express.js
 
-- ⛁ Firebase
+- 🌐 Axum
 
-- ⚡Supabase
+- ⛁ Firebase
