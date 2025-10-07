@@ -25,10 +25,6 @@
 
 - 🐧 Linux & Shell
 
-- 🐍 Python
-
-- ⚙️ Rust
-
 - 💻 VSCode
 
 - 📂 VCS Git and GitHub
@@ -45,12 +41,8 @@
 
 - 🎨 Tailwindcss
 
-- ⚛️ React
+- ⚛️ React.js
 
 - 🧩 Vue
 
-- ✳️ Express.js
-
-- 🌐 Axum
-
-- ⛁ Firebase
+- ✳️ Next.js
