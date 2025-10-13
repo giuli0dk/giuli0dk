@@ -41,6 +41,8 @@
 
 - 🎨 Tailwindcss
 
+- 😎 ShadCN/UI
+
 - ⚛️ React.js
 
 - 🧩 Vue
